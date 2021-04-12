@@ -1,4 +1,4 @@
-//教授抱歉 FRC程式連結點為https://github.com/FRC7636Robomania 抱歉造成您的困擾。
+
 package jp.jaxa.iss.kibo.rpc.emu;
 
 import android.graphics.Bitmap;
