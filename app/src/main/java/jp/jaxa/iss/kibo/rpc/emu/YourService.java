@@ -1,4 +1,3 @@
-
 package jp.jaxa.iss.kibo.rpc.emu;
 
 import android.graphics.Bitmap;
