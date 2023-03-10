@@ -225,7 +225,7 @@ public class YourService extends KiboRpcService {
                 sort(number, getQRString);
                 api.judgeSendDiscoveredQR(number, getQRString);
             } catch (Exception e) {
-                Log.e("tagerror", "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeerrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr");
+                Log.e("tagerror", "QRString null");
             }
         }
         return getQRString;
@@ -249,7 +249,7 @@ public class YourService extends KiboRpcService {
                 sort(number, getQRString);
                 api.judgeSendDiscoveredQR(number, getQRString);
             } catch (Exception e) {
-                Log.e("tagerror", "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeerrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr");
+                Log.e("tagerror", "QRString null");
             }
         }
         return getQRString;
